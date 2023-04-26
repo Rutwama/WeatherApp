@@ -1,3 +1,9 @@
+body{
+    display: block;
+    margin: 8px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
 .header {
     text-align: center;
 }
@@ -39,6 +45,7 @@
 .day p {
     color: #6d6d6d;
     font-size: 18px;
+    font-family: monospace;
 }
 
 button {
