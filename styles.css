@@ -1,0 +1,67 @@
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: #1a64d6;
+    font-size: 34px;
+    margin: 0;
+}
+
+.header h2 {
+    font-weight: 400;
+    font-size: 34px;
+    margin: 0;
+}
+
+.days {
+    margin: 20px 0 20px 0;
+}
+
+.day {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.day:hover {
+    background-color: #fffbef;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+.day h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.day p {
+    color: #6d6d6d;
+    font-size: 18px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    background-color: #1a64d6;
+    color: #ffff;
+    padding: 15px 25px;
+    border: 1px solid #1a64d6;
+    border-radius: 30px;
+    transition: all 200ms ease;
+    box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #ffff;
+    color: #1a64d6;
+}
+
+.author {
+    text-align: center;
+    color: #6d6d6d;
+
+}
