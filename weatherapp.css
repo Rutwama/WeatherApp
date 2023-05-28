@@ -1,0 +1,77 @@
+body {
+    margin: 50px;
+    padding: 0;
+    background-color: white;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid #5a6275;
+    border-radius: 5px;
+}
+
+.search-input {
+    margin-top: 20px;
+    border: 1px solid #5a6275;
+    font-weight: bold;
+}
+
+.search {
+    margin-top: 20px;
+    background-color: #a065ff;
+    color: white;
+    font-weight: 600;
+}
+
+.search:hover{
+    background-color: white;
+    color: #a065ff;
+}
+
+.main-weather {
+    text-align: center;
+}
+
+.main-weather p{
+        font-size: 24px;
+        font-weight: bold;
+}
+
+.sun-icon {
+    color: yellow;
+    font-size: 50px;
+}
+
+.sunIcon {
+    color: yellow;
+    font-size: 30px;
+}
+
+.cloud-icon {
+    color: gray;
+    font-size: 30px;
+}
+
+.rain-icon {
+    color: blue;
+    font-size: 30px;
+}
+
+.more {
+    text-align: center;
+    margin: 20px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+.days {
+    width: 850px;
+    border: none;
+}
+
+.days p {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
